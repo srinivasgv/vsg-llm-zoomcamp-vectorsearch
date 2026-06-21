@@ -1,0 +1,1 @@
+# vsg-llm-zoomcamp-vectorsearch
