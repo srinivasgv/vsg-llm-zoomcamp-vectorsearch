@@ -1,0 +1,6 @@
+.venv
+.env
+
+__pycache__
+
+/llm-zoomcamp-onnx/models
