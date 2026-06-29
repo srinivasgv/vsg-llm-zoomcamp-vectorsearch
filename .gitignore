@@ -1,6 +1,8 @@
 .venv
+.venv-1
 .env
 
 __pycache__
 
-/models
+llm-zoomcamp-onnx/models
+vectorsearch-lessons-hw/models
